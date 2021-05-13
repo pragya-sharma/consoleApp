@@ -1,3 +1,7 @@
+/*
+   Author - Pragya Sharma
+*/
+
 import java.util.*;
 class finalExam{
     private String make;
